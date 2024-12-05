@@ -1,0 +1,12 @@
+C:\Users\kianv\source\repos\hotelmanagement3\hotelmanagement3\bin\Debug\hotelmanagement3.exe.config
+C:\Users\kianv\source\repos\hotelmanagement3\hotelmanagement3\bin\Debug\hotelmanagement3.exe
+C:\Users\kianv\source\repos\hotelmanagement3\hotelmanagement3\bin\Debug\hotelmanagement3.pdb
+C:\Users\kianv\source\repos\hotelmanagement3\hotelmanagement3\obj\Debug\hotelmanagement3.csproj.AssemblyReference.cache
+C:\Users\kianv\source\repos\hotelmanagement3\hotelmanagement3\obj\Debug\hotelmanagement3.Properties.Resources.resources
+C:\Users\kianv\source\repos\hotelmanagement3\hotelmanagement3\obj\Debug\hotelmanagement3.csproj.GenerateResource.cache
+C:\Users\kianv\source\repos\hotelmanagement3\hotelmanagement3\obj\Debug\hotelmanagement3.csproj.CoreCompileInputs.cache
+C:\Users\kianv\source\repos\hotelmanagement3\hotelmanagement3\obj\Debug\hotelmanagement3.exe
+C:\Users\kianv\source\repos\hotelmanagement3\hotelmanagement3\obj\Debug\hotelmanagement3.pdb
+C:\Users\kianv\source\repos\hotelmanagement3\hotelmanagement3\obj\Debug\hotelmanagement3.FormLogin.resources
+C:\Users\kianv\source\repos\hotelmanagement3\hotelmanagement3\obj\Debug\hotelmanagement3.FormDashboard.resources
+C:\Users\kianv\source\repos\hotelmanagement3\hotelmanagement3\obj\Debug\hotelmanagement3.UserControlSetting.resources
